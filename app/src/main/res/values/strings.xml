@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">STA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="form_i_nfilter_data">FORM I\nFilter Data :</string>
+    <string name="nama_karyawan">Nama Karyawan</string>
+    <string name="usia">Usia</string>
+    <string name="tgl_masuk_kerja_awal_yyyy_mm_dd">Tgl Masuk Kerja Awal (yyyy-MM-dd)</string>
+    <string name="search">Search</string>
+    <string name="news">New</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="close">Close</string>
+    <string name="id">ID</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal">Tanggal</string>
+</resources>
